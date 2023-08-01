@@ -1,0 +1,16 @@
+{
+  "name": "test-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel src/index.html src/styles.main.scss src/scripts/main.js",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.64.1"
+  }
+}
